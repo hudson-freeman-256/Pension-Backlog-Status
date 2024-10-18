@@ -1,0 +1,2 @@
+[17-Oct-2024 11:05:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lukemoor/bot.lukemoore.co.ug/get_personnel.php on line 11
+[17-Oct-2024 11:10:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lukemoor/bot.lukemoore.co.ug/get_personnel.php on line 26
